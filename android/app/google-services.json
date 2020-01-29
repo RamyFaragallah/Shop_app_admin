@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719570721360",
+    "firebase_url": "https://shop-4e9db.firebaseio.com",
+    "project_id": "shop-4e9db",
+    "storage_bucket": "shop-4e9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719570721360:android:482449e4d8f45d8cbf8f55",
+        "android_client_info": {
+          "package_name": "com.santosenoque.shop_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719570721360-ia9udf65gurg59heuvh0v14jjc4tan74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santosenoque.shop_app_admin",
+            "certificate_hash": "60a37d10959f9fc5f1c51d30acd221f57d40b287"
+          }
+        },
+        {
+          "client_id": "719570721360-lojc6hqptg9sk54oinv764oau552k51u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfC5STKgCipGZKgrvMO3VyZxb0aVpsB8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719570721360-lojc6hqptg9sk54oinv764oau552k51u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
